@@ -1,0 +1,1262 @@
+2025-06-11 23:55:06,330 - INFO - Connected to MQTT broker
+2025-06-11 23:55:06,331 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-11 23:55:06,331 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-11 23:55:06,331 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-11 23:55:06,331 - INFO - Subscribed to home/waterConsumption/+
+2025-06-11 23:55:06,331 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-11 23:55:06,331 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-11 23:55:06,331 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-11 23:55:09,291 - WARNING - Not Found: /
+2025-06-11 23:56:39,048 - INFO - Received message on home/tankRoom/tankLevel: 600.5
+2025-06-11 23:57:19,392 - INFO - Received message on home/tankRoom/mainFlowrate: 12.3
+2025-06-11 23:57:28,850 - INFO - Received message on home/waterConsumption/daily: 45.0
+2025-06-11 23:57:41,527 - INFO - Received message on home/leakageRoom/leakAlarm: true
+2025-06-12 00:08:49,396 - INFO - Published to home/tankRoom/motor: true
+2025-06-12 00:10:42,607 - WARNING - Not Found: /api/leakage-detection/latest/leak_alarm/
+2025-06-12 00:12:33,290 - WARNING - Not Found: /api/leakage-detection/latest/leak_alarm/
+2025-06-12 00:12:34,564 - WARNING - Not Found: /api/leakage-detection/latest/leak_alarm/
+2025-06-12 00:13:01,661 - WARNING - Not Found: /api/leakage-detection/latest/leak_alarm/
+2025-06-12 00:13:02,999 - WARNING - Not Found: /api/leakage-detection/latest/leak_alarm/
+2025-06-12 00:20:45,558 - INFO - Connected to MQTT broker
+2025-06-12 00:20:45,559 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 00:20:45,559 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 00:20:45,559 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 00:20:45,559 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 00:20:45,559 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 00:20:45,559 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 00:20:45,559 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 00:20:58,483 - WARNING - Not Found: /api/leakage-detection/latest/leak_alarm/
+2025-06-12 00:20:59,463 - WARNING - Not Found: /api/leakage-detection/latest/leak_alarm/
+2025-06-12 00:25:49,432 - INFO - Published to home/tankRoom/motor: true
+2025-06-12 17:38:00,346 - INFO - Connected to MQTT broker
+2025-06-12 17:38:00,346 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:38:00,346 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:38:00,346 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:38:00,346 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:38:00,346 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:38:00,346 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:38:00,346 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:38:20,487 - INFO - Connected to MQTT broker
+2025-06-12 17:38:20,487 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:38:20,487 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:38:20,487 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:38:20,487 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:38:20,487 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:38:20,487 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:38:20,487 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:38:33,103 - INFO - Connected to MQTT broker
+2025-06-12 17:38:33,104 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:38:33,104 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:38:33,104 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:38:33,104 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:38:33,104 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:38:33,104 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:38:33,104 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:39:51,035 - INFO - Connected to MQTT broker
+2025-06-12 17:39:51,036 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:39:51,036 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:39:51,036 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:39:51,038 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:39:51,038 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:39:51,038 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:39:51,039 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:39:53,761 - WARNING - Not Found: /
+2025-06-12 17:39:53,961 - WARNING - Not Found: /favicon.ico
+2025-06-12 17:40:54,860 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\mqtt\client.py changed, reloading.
+2025-06-12 17:40:57,154 - INFO - Connected to MQTT broker
+2025-06-12 17:40:57,155 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:40:57,155 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:40:57,155 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:40:57,155 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:40:57,155 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:40:57,155 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:40:57,155 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:40:57,155 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 17:41:28,766 - INFO - Connected to MQTT broker
+2025-06-12 17:41:28,766 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:41:28,767 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:41:28,767 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:41:28,767 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:41:28,767 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:41:28,767 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:41:28,767 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:41:28,767 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 17:41:41,259 - INFO - Received message on home/waterConsumption/alert/daily: true
+2025-06-12 17:42:56,390 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\serializers\user.py changed, reloading.
+2025-06-12 17:42:58,909 - INFO - Connected to MQTT broker
+2025-06-12 17:42:58,910 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:42:58,910 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:42:58,910 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:42:58,910 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:42:58,910 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:42:58,910 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:42:58,910 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:42:58,910 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 17:50:44,368 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\serializers\user.py changed, reloading.
+2025-06-12 17:50:47,437 - INFO - Connected to MQTT broker
+2025-06-12 17:50:47,437 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:50:47,437 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:50:47,437 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:50:47,437 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:50:47,437 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:50:47,438 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:50:47,439 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:50:47,439 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 17:51:03,500 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\serializers\__init__.py changed, reloading.
+2025-06-12 17:51:05,407 - INFO - Connected to MQTT broker
+2025-06-12 17:51:05,408 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:51:05,408 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:51:05,408 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:51:05,408 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:51:05,408 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:51:05,408 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:51:05,408 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:51:05,409 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 17:52:33,153 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\__init__.py changed, reloading.
+2025-06-12 17:52:35,814 - INFO - Connected to MQTT broker
+2025-06-12 17:52:35,815 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:52:35,815 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:52:35,815 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:52:35,815 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:52:35,815 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:52:35,815 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:52:35,815 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:52:35,817 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 17:52:55,677 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\urls.py changed, reloading.
+2025-06-12 17:52:58,201 - INFO - Connected to MQTT broker
+2025-06-12 17:52:58,201 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:52:58,206 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:52:58,206 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:52:58,206 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:52:58,206 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:52:58,206 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:52:58,206 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:52:58,207 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 17:53:15,255 - INFO - Connected to MQTT broker
+2025-06-12 17:53:15,255 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 17:53:15,255 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 17:53:15,255 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 17:53:15,256 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 17:53:15,256 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 17:53:15,256 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 17:53:15,256 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 17:53:15,256 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 17:55:09,354 - WARNING - Method Not Allowed: /api/threshold/
+2025-06-12 17:57:33,926 - INFO - Received message on home/waterConsumption/alert/daily: true
+2025-06-12 17:58:22,075 - WARNING - Not Found: /api/alerts/latest/daily/
+2025-06-12 23:31:16,828 - INFO - Connected to MQTT broker
+2025-06-12 23:31:16,828 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:31:16,828 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:31:16,828 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:31:16,828 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:31:16,828 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:31:16,828 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:31:16,828 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:31:16,828 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:33:28,377 - INFO - Connected to MQTT broker
+2025-06-12 23:33:28,377 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:33:28,377 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:33:28,377 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:33:28,377 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:33:28,377 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:33:28,377 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:33:28,377 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:33:28,377 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:33:30,043 - WARNING - Not Found: /
+2025-06-12 23:33:30,262 - WARNING - Not Found: /favicon.ico
+2025-06-12 23:35:00,909 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\mqtt\client.py changed, reloading.
+2025-06-12 23:35:10,196 - INFO - Connected to MQTT broker
+2025-06-12 23:35:10,197 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:35:10,197 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:35:10,197 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:35:10,197 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:35:10,197 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:35:10,198 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:35:10,198 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:35:10,198 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:39:00,153 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\serializers\user.py changed, reloading.
+2025-06-12 23:39:10,149 - INFO - Connected to MQTT broker
+2025-06-12 23:39:10,149 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:39:10,149 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:39:10,149 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:39:10,149 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:39:10,150 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:39:10,150 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:39:10,150 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:39:10,150 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:40:23,773 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\serializers\user.py changed, reloading.
+2025-06-12 23:40:25,357 - INFO - Connected to MQTT broker
+2025-06-12 23:40:25,357 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:40:25,357 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:40:25,357 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:40:25,357 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:40:25,357 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:40:25,357 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:40:25,357 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:40:25,357 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:40:39,518 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\serializers\user.py changed, reloading.
+2025-06-12 23:40:41,048 - INFO - Connected to MQTT broker
+2025-06-12 23:40:41,048 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:40:41,048 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:40:41,048 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:40:41,048 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:40:41,048 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:40:41,048 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:40:41,048 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:40:41,048 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:41:09,792 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py changed, reloading.
+2025-06-12 23:41:11,337 - INFO - Connected to MQTT broker
+2025-06-12 23:41:11,337 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:41:11,337 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:41:11,337 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:41:11,337 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:41:11,337 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:41:11,337 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:41:11,337 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:41:11,337 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:41:13,239 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py changed, reloading.
+2025-06-12 23:41:14,895 - INFO - Connected to MQTT broker
+2025-06-12 23:41:14,895 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:41:14,895 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:41:14,895 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:41:14,896 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:41:14,896 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:41:14,896 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:41:14,896 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:41:14,896 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:41:23,060 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py changed, reloading.
+2025-06-12 23:41:24,710 - INFO - Connected to MQTT broker
+2025-06-12 23:41:24,710 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:41:24,710 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:41:24,710 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:41:24,710 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:41:24,710 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:41:24,710 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:41:24,710 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:41:24,710 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:41:26,123 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py changed, reloading.
+2025-06-12 23:41:27,594 - INFO - Connected to MQTT broker
+2025-06-12 23:41:27,599 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:41:27,599 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:41:27,599 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:41:27,599 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:41:27,599 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:41:27,599 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:41:27,599 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:41:27,599 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:45:10,137 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\mqtt\client.py changed, reloading.
+2025-06-12 23:45:11,809 - INFO - Connected to MQTT broker
+2025-06-12 23:45:11,810 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:45:11,810 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:45:11,810 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:45:11,810 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:45:11,810 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:45:11,810 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:45:11,810 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:45:11,810 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:47:41,865 - INFO - Connected to MQTT broker
+2025-06-12 23:47:41,865 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:47:41,865 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:47:41,865 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:47:41,866 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:47:41,866 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:47:41,866 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:47:41,866 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:47:41,866 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:49:37,718 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py changed, reloading.
+2025-06-12 23:49:39,195 - INFO - Connected to MQTT broker
+2025-06-12 23:49:39,195 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:49:39,195 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:49:39,196 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:49:39,196 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:49:39,196 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:49:39,196 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:49:39,196 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:49:39,196 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:49:42,790 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py changed, reloading.
+2025-06-12 23:49:44,301 - INFO - Connected to MQTT broker
+2025-06-12 23:49:44,302 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:49:44,302 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:49:44,302 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:49:44,302 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:49:44,302 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:49:44,302 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:49:44,302 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:49:44,302 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:55:00,555 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py changed, reloading.
+2025-06-12 23:55:02,745 - INFO - Connected to MQTT broker
+2025-06-12 23:55:02,745 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:55:02,745 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:55:02,745 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:55:02,745 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:55:02,745 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:55:02,746 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:55:02,746 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:55:02,746 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:55:21,274 - INFO - Connected to MQTT broker
+2025-06-12 23:55:21,274 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-12 23:55:21,276 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-12 23:55:21,276 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-12 23:55:21,276 - INFO - Subscribed to home/waterConsumption/+
+2025-06-12 23:55:21,276 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-12 23:55:21,276 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-12 23:55:21,276 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-12 23:55:21,276 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-12 23:59:18,691 - ERROR - Error publishing to home/tankRoom/motor: module 'paho.mqtt.client' has no attribute 'MQTT_OK'
+2025-06-13 00:01:35,855 - WARNING - Unauthorized: /api/bulk-control/
+2025-06-13 00:02:46,529 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-13 00:03:30,947 - WARNING - Unauthorized: /api/bulk-control/
+2025-06-13 00:04:08,764 - WARNING - Unauthorized: /api/bulk-control/
+2025-06-13 00:04:25,393 - WARNING - Unauthorized: /api/bulk-control/
+2025-06-13 00:04:26,380 - WARNING - Unauthorized: /api/bulk-control/
+2025-06-13 00:04:35,005 - WARNING - Unauthorized: /api/bulk-control/
+2025-06-13 00:04:36,923 - WARNING - Unauthorized: /api/bulk-control/
+2025-06-13 00:05:04,423 - WARNING - Unauthorized: /api/bulk-control/
+2025-06-13 00:05:25,763 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-13 16:42:15,809 - INFO - Connected to MQTT broker
+2025-06-13 16:42:15,810 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-13 16:42:15,811 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-13 16:42:15,811 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-13 16:42:15,811 - INFO - Subscribed to home/waterConsumption/+
+2025-06-13 16:42:15,811 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-13 16:42:15,811 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-13 16:42:15,811 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-13 16:42:15,811 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-13 18:57:20,110 - INFO - Connected to MQTT broker
+2025-06-13 18:57:20,110 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-13 18:57:20,110 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-13 18:57:20,110 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-13 18:57:20,110 - INFO - Subscribed to home/waterConsumption/+
+2025-06-13 18:57:20,110 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-13 18:57:20,110 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-13 18:57:20,126 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-13 18:57:20,126 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-13 18:57:28,322 - WARNING - Not Found: /
+2025-06-13 18:57:28,470 - WARNING - Not Found: /favicon.ico
+2025-06-13 19:31:05,995 - WARNING - Bad Request: /api/tank-flow/latest/invalid/
+2025-06-13 19:31:11,021 - WARNING - Not Found: /api/tank-flow/latest/
+2025-06-15 18:14:41,990 - INFO - Connected to MQTT broker
+2025-06-15 18:14:41,990 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-15 18:14:41,990 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-15 18:14:41,990 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-15 18:14:41,990 - INFO - Subscribed to home/waterConsumption/+
+2025-06-15 18:14:41,990 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-15 18:14:41,990 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-15 18:14:41,992 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-15 18:14:41,992 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-15 18:14:47,263 - WARNING - Not Found: /
+2025-06-15 18:14:47,569 - WARNING - Not Found: /favicon.ico
+2025-06-15 18:16:42,231 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\water_management\settings.py changed, reloading.
+2025-06-15 18:16:44,324 - INFO - Connected to MQTT broker
+2025-06-15 18:16:44,324 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-15 18:16:44,324 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-15 18:16:44,324 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-15 18:16:44,324 - INFO - Subscribed to home/waterConsumption/+
+2025-06-15 18:16:44,324 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-15 18:16:44,324 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-15 18:16:44,324 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-15 18:16:44,324 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-15 18:16:46,398 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\water_management\settings.py changed, reloading.
+2025-06-15 18:16:48,134 - INFO - Connected to MQTT broker
+2025-06-15 18:16:48,134 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-15 18:16:48,134 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-15 18:16:48,134 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-15 18:16:48,134 - INFO - Subscribed to home/waterConsumption/+
+2025-06-15 18:16:48,135 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-15 18:16:48,135 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-15 18:16:48,136 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-15 18:16:48,136 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-15 18:17:03,747 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\water_management\settings.py changed, reloading.
+2025-06-15 18:17:05,408 - INFO - Connected to MQTT broker
+2025-06-15 18:17:05,410 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-15 18:17:05,410 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-15 18:17:05,410 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-15 18:17:05,410 - INFO - Subscribed to home/waterConsumption/+
+2025-06-15 18:17:05,410 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-15 18:17:05,410 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-15 18:17:05,410 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-15 18:17:05,410 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-15 18:17:09,685 - INFO - E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\water_management\settings.py changed, reloading.
+2025-06-15 18:23:28,525 - INFO - Connected to MQTT broker
+2025-06-15 18:23:28,526 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-15 18:23:28,526 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-15 18:23:28,526 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-15 18:23:28,526 - INFO - Subscribed to home/waterConsumption/+
+2025-06-15 18:23:28,526 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-15 18:23:28,528 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-15 18:23:28,528 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-15 18:23:28,528 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-15 18:41:49,833 - INFO - Connected to MQTT broker
+2025-06-15 18:41:49,834 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-15 18:41:49,834 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-15 18:41:49,834 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-15 18:41:49,834 - INFO - Subscribed to home/waterConsumption/+
+2025-06-15 18:41:49,834 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-15 18:41:49,834 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-15 18:41:49,834 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-15 18:41:49,834 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-15 20:54:26,225 - WARNING - Disconnected from MQTT broker with code 7
+2025-06-15 20:54:27,426 - INFO - Connected to MQTT broker
+2025-06-15 20:54:27,429 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-15 20:54:27,445 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-15 20:54:27,447 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-15 20:54:27,447 - INFO - Subscribed to home/waterConsumption/+
+2025-06-15 20:54:27,447 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-15 20:54:27,447 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-15 20:54:27,447 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-15 20:54:27,447 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-16 17:18:50,167 - INFO - Connected to MQTT broker
+2025-06-16 17:18:50,168 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-16 17:18:50,168 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-16 17:18:50,168 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-16 17:18:50,168 - INFO - Subscribed to home/waterConsumption/+
+2025-06-16 17:18:50,168 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-16 17:18:50,168 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-16 17:18:50,169 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-16 17:18:50,169 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-16 17:57:43,430 - WARNING - Disconnected from MQTT broker with code 7
+2025-06-16 17:57:44,562 - INFO - Connected to MQTT broker
+2025-06-16 17:57:44,563 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-16 17:57:44,563 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-16 17:57:44,563 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-16 17:57:44,564 - INFO - Subscribed to home/waterConsumption/+
+2025-06-16 17:57:44,564 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-16 17:57:44,564 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-16 17:57:44,564 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-16 17:57:44,564 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-16 19:42:32,796 - WARNING - Disconnected from MQTT broker with code 7
+2025-06-16 19:42:33,861 - INFO - Connected to MQTT broker
+2025-06-16 19:42:33,861 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-16 19:42:33,861 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-16 19:42:33,861 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-16 19:42:33,863 - INFO - Subscribed to home/waterConsumption/+
+2025-06-16 19:42:33,863 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-16 19:42:33,863 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-16 19:42:33,863 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-16 19:42:33,863 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-16 19:48:50,850 - WARNING - Not Found: /
+2025-06-16 19:48:51,076 - WARNING - Not Found: /favicon.ico
+2025-06-17 16:23:28,338 - INFO - Connected to MQTT broker
+2025-06-17 16:23:28,338 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-17 16:23:28,338 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-17 16:23:28,338 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-17 16:23:28,338 - INFO - Subscribed to home/waterConsumption/+
+2025-06-17 16:23:28,338 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-17 16:23:28,338 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-17 16:23:28,338 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-17 16:23:28,338 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-17 16:28:42,890 - WARNING - Disconnected from MQTT broker with code 7
+2025-06-17 16:28:43,925 - INFO - Connected to MQTT broker
+2025-06-17 16:28:43,926 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-17 16:28:43,926 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-17 16:28:43,926 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-17 16:28:43,927 - INFO - Subscribed to home/waterConsumption/+
+2025-06-17 16:28:43,927 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-17 16:28:43,927 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-17 16:28:43,927 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-17 16:28:43,928 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-17 16:33:47,224 - INFO - Received message on home/waterConsumption/minute: "true"
+2025-06-17 16:33:47,429 - ERROR - Invalid payload format on home/waterConsumption/minute: "true" - could not convert string to float: '"true"'
+2025-06-17 16:34:22,221 - INFO - Received message on home/leakageRoom/leakAlarm: "true"
+2025-06-17 16:34:24,639 - ERROR - Error processing message on home/leakageRoom/leakAlarm: Error 22 connecting to 127.0.0.1:6379. The remote computer refused the network connection.
+2025-06-17 16:34:41,582 - INFO - Received message on home/waterConsumption/alert/daily: "true"
+2025-06-17 16:34:43,638 - ERROR - Error processing message on home/waterConsumption/alert/daily: Error 22 connecting to 127.0.0.1:6379. The remote computer refused the network connection.
+2025-06-17 17:17:44,843 - WARNING - Disconnected from MQTT broker with code 7
+2025-06-17 17:17:45,953 - INFO - Connected to MQTT broker
+2025-06-17 17:17:45,954 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-17 17:17:45,955 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-17 17:17:45,955 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-17 17:17:45,955 - INFO - Subscribed to home/waterConsumption/+
+2025-06-17 17:17:45,955 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-17 17:17:45,955 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-17 17:17:45,956 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-17 17:17:45,956 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-17 17:43:16,028 - WARNING - Disconnected from MQTT broker with code 7
+2025-06-17 17:43:17,143 - INFO - Connected to MQTT broker
+2025-06-17 17:43:17,144 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-17 17:43:17,145 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-17 17:43:17,145 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-17 17:43:17,146 - INFO - Subscribed to home/waterConsumption/+
+2025-06-17 17:43:17,146 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-17 17:43:17,146 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-17 17:43:17,146 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-17 17:43:17,146 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-17 18:07:33,908 - WARNING - Disconnected from MQTT broker with code 7
+2025-06-17 19:52:56,180 - INFO - Connected to MQTT broker
+2025-06-17 19:52:56,180 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-17 19:52:56,181 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-17 19:52:56,181 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-17 19:52:56,181 - INFO - Subscribed to home/waterConsumption/+
+2025-06-17 19:52:56,181 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-17 19:52:56,181 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-17 19:52:56,182 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-17 19:52:56,182 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-17 19:53:02,481 - WARNING - Not Found: /
+2025-06-17 19:53:02,688 - WARNING - Not Found: /favicon.ico
+2025-06-20 15:55:25,260 - INFO - Connected to MQTT broker
+2025-06-20 15:55:25,260 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-20 15:55:25,260 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-20 15:55:25,260 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-20 15:55:25,260 - INFO - Subscribed to home/waterConsumption/+
+2025-06-20 15:55:25,260 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-20 15:55:25,260 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-20 15:55:25,260 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-20 15:55:25,260 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-20 16:35:53,047 - WARNING - Not Found: /
+2025-06-20 16:35:53,226 - WARNING - Not Found: /favicon.ico
+2025-06-20 16:39:20,621 - INFO - Connected to MQTT broker
+2025-06-20 16:39:20,621 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-20 16:39:20,621 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-20 16:39:20,621 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-20 16:39:20,621 - INFO - Subscribed to home/waterConsumption/+
+2025-06-20 16:39:20,622 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-20 16:39:20,622 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-20 16:39:20,622 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-20 16:39:20,622 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-20 16:40:36,254 - INFO - Connected to MQTT broker
+2025-06-20 16:40:36,254 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-20 16:40:36,254 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-20 16:40:36,254 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-20 16:40:36,254 - INFO - Subscribed to home/waterConsumption/+
+2025-06-20 16:40:36,254 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-20 16:40:36,255 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-20 16:40:36,255 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-20 16:40:36,256 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-20 16:41:25,525 - WARNING - Not Found: /
+2025-06-20 16:45:20,802 - INFO - Connected to MQTT broker
+2025-06-20 16:45:20,802 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-20 16:45:20,802 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-20 16:45:20,803 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-20 16:45:20,803 - INFO - Subscribed to home/waterConsumption/+
+2025-06-20 16:45:20,803 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-20 16:45:20,803 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-20 16:45:20,803 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-20 16:45:20,803 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-20 17:02:39,345 - WARNING - Not Found: /api/water-consumption/latest/daily/
+2025-06-20 17:05:10,776 - WARNING - Not Found: /api/water-consumption/latest/daily/
+2025-06-20 17:06:01,596 - WARNING - Not Found: /api/water-consumption/latest/weekly/
+2025-06-20 17:08:46,681 - WARNING - Not Found: /api/water-consumption/latest/minute/
+2025-06-20 17:09:36,286 - WARNING - Not Found: /api/water-consumption/latest/monthly/
+2025-06-20 17:10:17,557 - WARNING - Not Found: /api/water-consumption/latest/total/
+2025-06-20 17:10:23,250 - WARNING - Bad Request: /api/water-consumption/latest/todtal/
+2025-06-20 17:10:28,425 - WARNING - Not Found: /api/water-consumption/latest/total/
+2025-06-20 17:39:39,702 - WARNING - Disconnected from MQTT broker with code 7
+2025-06-20 17:39:40,742 - INFO - Connected to MQTT broker
+2025-06-20 17:39:40,748 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-20 17:39:40,748 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-20 17:39:40,749 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-20 17:39:40,749 - INFO - Subscribed to home/waterConsumption/+
+2025-06-20 17:39:40,749 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-20 17:39:40,749 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-20 17:39:40,750 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-20 17:39:40,754 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-20 17:47:19,056 - WARNING - Not Found: /api/tank-flow/latest/tank_level/
+2025-06-20 17:50:45,490 - WARNING - Not Found: /api/tank-flow/latest/main_flow_rate/
+2025-06-20 17:52:11,271 - WARNING - Not Found: /api/tank-flow/latest/secondary_flow_rate/
+2025-06-20 17:56:47,973 - WARNING - Unauthorized: /api/leakage-detection/latest/leak_alarm/
+2025-06-20 17:57:03,638 - WARNING - Not Found: /api/leakage-detection/latest/leak_alarm/
+2025-06-20 17:58:33,099 - WARNING - Not Found: /api/alerts/latest/daily/
+2025-06-20 18:01:49,820 - WARNING - Method Not Allowed: /api/threshold/
+2025-06-20 18:02:33,643 - WARNING - Bad Request: /api/threshold/
+2025-06-20 18:02:43,765 - WARNING - Bad Request: /api/threshold/
+2025-06-20 18:02:57,211 - WARNING - Bad Request: /api/threshold/
+2025-06-20 18:02:58,241 - WARNING - Bad Request: /api/threshold/
+2025-06-20 18:03:14,813 - WARNING - Unauthorized: /api/threshold/
+2025-06-20 18:03:19,469 - WARNING - Bad Request: /api/threshold/
+2025-06-20 18:04:50,986 - WARNING - Method Not Allowed: /api/threshold/
+2025-06-20 18:04:56,877 - WARNING - Bad Request: /api/threshold/
+2025-06-20 18:05:31,379 - WARNING - Bad Request: /api/threshold/
+2025-06-20 18:05:32,689 - WARNING - Bad Request: /api/threshold/
+2025-06-20 18:07:34,832 - ERROR - Internal Server Error: /api/threshold/daily/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: ThresholdView.post() got an unexpected keyword argument 'period'
+2025-06-20 18:07:45,896 - WARNING - Unsupported Media Type: /api/threshold/daily/
+2025-06-20 18:11:04,355 - ERROR - Error publishing to home/tankRoom/motor: module 'paho.mqtt.client' has no attribute 'MQTT_OK'
+2025-06-20 18:12:44,036 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-20 18:12:47,100 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-20 18:15:05,572 - INFO - Connected to MQTT broker
+2025-06-20 18:15:05,572 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-20 18:15:05,572 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-20 18:15:05,572 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-20 18:15:05,572 - INFO - Subscribed to home/waterConsumption/+
+2025-06-20 18:15:05,572 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-20 18:15:05,572 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-20 18:15:05,572 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-20 18:15:05,572 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-20 18:15:08,340 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-20 18:15:45,966 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-20 18:15:51,994 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-20 18:17:11,623 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-20 18:17:22,830 - INFO - Connected to MQTT broker
+2025-06-20 18:17:22,830 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-20 18:17:22,830 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-20 18:17:22,830 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-20 18:17:22,832 - INFO - Subscribed to home/waterConsumption/+
+2025-06-20 18:17:22,832 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-20 18:17:22,832 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-20 18:17:22,832 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-20 18:17:22,832 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-20 18:17:28,921 - WARNING - Not Found: /api/water-consumption/latest/monthly/
+2025-06-20 18:19:21,750 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-20 18:22:00,263 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-20 18:22:01,861 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-20 18:50:40,419 - INFO - Connected to MQTT broker
+2025-06-20 18:50:40,419 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-20 18:50:40,419 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-20 18:50:40,419 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-20 18:50:40,419 - INFO - Subscribed to home/waterConsumption/+
+2025-06-20 18:50:40,419 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-20 18:50:40,419 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-20 18:50:40,419 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-20 18:50:40,419 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-20 18:53:27,743 - ERROR - Internal Server Error: /api/bulk-control/
+Traceback (most recent call last):
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\exception.py", line 55, in inner
+    response = get_response(request)
+               ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\core\handlers\base.py", line 197, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\decorators\csrf.py", line 65, in _view_wrapper
+    return view_func(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\django\views\generic\base.py", line 104, in view
+    return self.dispatch(request, *args, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 509, in dispatch
+    response = self.handle_exception(exc)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 469, in handle_exception
+    self.raise_uncaught_exception(exc)
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 480, in raise_uncaught_exception
+    raise exc
+  File "C:\Users\mg177\AppData\Local\Programs\Python\Python312\Lib\site-packages\rest_framework\views.py", line 506, in dispatch
+    response = handler(request, *args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "E:\D drive\Faculty\4_Fourth Year\Graduation_Project\IotWaterManagement\backend\core\views\mqtt.py", line 138, in post
+    for command in serializer.validated_data['commands']:
+                   ~~~~~~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+KeyError: 'commands'
+2025-06-20 19:01:57,595 - INFO - Connected to MQTT broker
+2025-06-20 19:01:57,595 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-20 19:01:57,595 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-20 19:01:57,595 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-20 19:01:57,595 - INFO - Subscribed to home/waterConsumption/+
+2025-06-20 19:01:57,595 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-20 19:01:57,595 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-20 19:01:57,595 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-20 19:01:57,595 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-20 19:07:43,158 - WARNING - Not Found: /api/water-consumption/latest/daily/
+2025-06-21 00:29:27,624 - INFO - Connected to MQTT broker
+2025-06-21 00:29:27,626 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-21 00:29:27,626 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-21 00:29:27,626 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-21 00:29:27,627 - INFO - Subscribed to home/waterConsumption/+
+2025-06-21 00:29:27,627 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-21 00:29:27,627 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-21 00:29:27,628 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-21 00:29:27,628 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-21 00:29:52,837 - INFO - Connected to MQTT broker
+2025-06-21 00:29:52,837 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-21 00:29:52,838 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-21 00:29:52,838 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-21 00:29:52,838 - INFO - Subscribed to home/waterConsumption/+
+2025-06-21 00:29:52,838 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-21 00:29:52,839 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-21 00:29:52,839 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-21 00:29:52,839 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 14:45:21,792 - INFO - Connected to MQTT broker
+2025-06-23 14:45:21,792 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 14:45:21,793 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 14:45:21,793 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 14:45:21,793 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 14:45:21,793 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 14:45:21,794 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 14:45:21,794 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 14:45:21,794 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 14:46:55,835 - INFO - Connected to MQTT broker
+2025-06-23 14:46:55,836 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 14:46:55,836 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 14:46:55,837 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 14:46:55,837 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 14:46:55,837 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 14:46:55,837 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 14:46:55,838 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 14:46:55,838 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 16:56:11,900 - INFO - Connected to MQTT broker
+2025-06-23 16:56:11,900 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 16:56:11,901 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 16:56:11,901 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 16:56:11,902 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 16:56:11,902 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 16:56:11,902 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 16:56:11,903 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 16:56:11,903 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 17:41:55,947 - INFO - Connected to MQTT broker
+2025-06-23 17:41:55,949 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 17:41:55,949 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 17:41:55,949 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 17:41:55,950 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 17:41:55,950 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 17:41:55,950 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 17:41:55,951 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 17:41:55,951 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 17:45:12,807 - INFO - Connected to MQTT broker
+2025-06-23 17:45:12,808 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 17:45:12,808 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 17:45:12,809 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 17:45:12,809 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 17:45:12,809 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 17:45:12,809 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 17:45:12,809 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 17:45:12,810 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 17:51:38,474 - INFO - Connected to MQTT broker
+2025-06-23 17:51:38,475 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 17:51:38,475 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 17:51:38,475 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 17:51:38,475 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 17:51:38,476 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 17:51:38,476 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 17:51:38,476 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 17:51:38,476 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 17:53:41,329 - INFO - Connected to MQTT broker
+2025-06-23 17:53:41,329 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 17:53:41,330 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 17:53:41,330 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 17:53:41,331 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 17:53:41,331 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 17:53:41,331 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 17:53:41,332 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 17:53:41,332 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 17:54:44,975 - INFO - Connected to MQTT broker
+2025-06-23 17:54:44,975 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 17:54:44,976 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 17:54:44,976 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 17:54:44,977 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 17:54:44,977 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 17:54:44,977 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 17:54:44,977 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 17:54:44,978 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 18:04:57,129 - INFO - Connected to MQTT broker
+2025-06-23 18:04:57,130 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 18:04:57,130 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 18:04:57,131 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 18:04:57,131 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 18:04:57,131 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 18:04:57,132 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 18:04:57,132 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 18:04:57,132 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 18:17:32,518 - INFO - Connected to MQTT broker
+2025-06-23 18:17:32,518 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 18:17:32,519 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 18:17:32,519 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 18:17:32,519 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 18:17:32,520 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 18:17:32,520 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 18:17:32,520 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 18:17:32,520 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 18:22:26,312 - INFO - Connected to MQTT broker
+2025-06-23 18:22:26,312 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 18:22:26,313 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 18:22:26,313 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 18:22:26,313 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 18:22:26,314 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 18:22:26,314 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 18:22:26,314 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 18:22:26,314 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-23 19:02:45,563 - INFO - Connected to MQTT broker
+2025-06-23 19:02:45,564 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-23 19:02:45,564 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-23 19:02:45,565 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-23 19:02:45,565 - INFO - Subscribed to home/waterConsumption/+
+2025-06-23 19:02:45,565 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-23 19:02:45,566 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-23 19:02:45,566 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-23 19:02:45,566 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-24 02:07:36,817 - INFO - Connected to MQTT broker
+2025-06-24 02:07:36,817 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-24 02:07:36,817 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-24 02:07:36,818 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-24 02:07:36,818 - INFO - Subscribed to home/waterConsumption/+
+2025-06-24 02:07:36,818 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-24 02:07:36,818 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-24 02:07:36,819 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-24 02:07:36,819 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-24 02:07:49,452 - INFO - Connected to MQTT broker
+2025-06-24 02:07:49,452 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-24 02:07:49,452 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-24 02:07:49,453 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-24 02:07:49,453 - INFO - Subscribed to home/waterConsumption/+
+2025-06-24 02:07:49,453 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-24 02:07:49,454 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-24 02:07:49,454 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-24 02:07:49,454 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-24 02:09:15,131 - INFO - Connected to MQTT broker
+2025-06-24 02:09:15,133 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-24 02:09:15,133 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-24 02:09:15,134 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-24 02:09:15,134 - INFO - Subscribed to home/waterConsumption/+
+2025-06-24 02:09:15,134 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-24 02:09:15,134 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-24 02:09:15,135 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-24 02:09:15,135 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-24 02:09:27,181 - INFO - Connected to MQTT broker
+2025-06-24 02:09:27,181 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-24 02:09:27,181 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-24 02:09:27,182 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-24 02:09:27,182 - INFO - Subscribed to home/waterConsumption/+
+2025-06-24 02:09:27,182 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-24 02:09:27,182 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-24 02:09:27,183 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-24 02:09:27,183 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-25 16:37:55,293 - INFO - Connected to MQTT broker
+2025-06-25 16:37:55,295 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-25 16:37:55,296 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-25 16:37:55,296 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-25 16:37:55,296 - INFO - Subscribed to home/waterConsumption/+
+2025-06-25 16:37:55,297 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-25 16:37:55,297 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-25 16:37:55,297 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-25 16:37:55,297 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-30 12:22:37,933 - INFO - Connected to MQTT broker
+2025-06-30 12:22:37,934 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-30 12:22:37,935 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-30 12:22:37,935 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-30 12:22:37,935 - INFO - Subscribed to home/waterConsumption/+
+2025-06-30 12:22:37,936 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-30 12:22:37,936 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-30 12:22:37,936 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-30 12:22:37,936 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-30 12:22:38,312 - DEBUG - (0.022) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+2025-06-30 12:22:38,321 - DEBUG - (0.005) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+2025-06-30 12:22:38,324 - DEBUG - (0.001) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+2025-06-30 12:22:38,325 - DEBUG - (0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+2025-06-30 12:22:38,349 - DEBUG - (0.001) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+2025-06-30 12:22:38,351 - DEBUG - (0.000) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+2025-06-30 12:22:38,358 - DEBUG - (0.005) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'admin'; args=('admin',); alias=default
+2025-06-30 12:22:38,360 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'admin' AND "django_content_type"."model" IN ('logentry')); args=('admin', 'logentry'); alias=default
+2025-06-30 12:22:38,366 - DEBUG - (0.004) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (1) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(1,); alias=default
+2025-06-30 12:22:38,368 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'admin'; args=('admin',); alias=default
+2025-06-30 12:22:38,369 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'auth'; args=('auth',); alias=default
+2025-06-30 12:22:38,371 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'auth' AND "django_content_type"."model" IN ('permission', 'group')); args=('auth', 'permission', 'group'); alias=default
+2025-06-30 12:22:38,373 - DEBUG - (0.001) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (2, 3) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(2, 3); alias=default
+2025-06-30 12:22:38,374 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'auth'; args=('auth',); alias=default
+2025-06-30 12:22:38,375 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'contenttypes'; args=('contenttypes',); alias=default
+2025-06-30 12:22:38,376 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'contenttypes' AND "django_content_type"."model" IN ('contenttype')); args=('contenttypes', 'contenttype'); alias=default
+2025-06-30 12:22:38,378 - DEBUG - (0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (4) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(4,); alias=default
+2025-06-30 12:22:38,379 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'contenttypes'; args=('contenttypes',); alias=default
+2025-06-30 12:22:38,380 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sessions'; args=('sessions',); alias=default
+2025-06-30 12:22:38,381 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'sessions' AND "django_content_type"."model" IN ('session')); args=('sessions', 'session'); alias=default
+2025-06-30 12:22:38,383 - DEBUG - (0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (5) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(5,); alias=default
+2025-06-30 12:22:38,384 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sessions'; args=('sessions',); alias=default
+2025-06-30 12:22:38,385 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'core'; args=('core',); alias=default
+2025-06-30 12:22:38,387 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'core' AND "django_content_type"."model" IN ('waterconsumptionalert', 'waterconsumption', 'waterconsumptionthreshold', 'tankflowmetric', 'leakagedetection', 'customuser')); args=('core', 'waterconsumptionalert', 'waterconsumption', 'waterconsumptionthreshold', 'tankflowmetric', 'leakagedetection', 'customuser'); alias=default
+2025-06-30 12:22:38,389 - DEBUG - (0.001) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (6, 7, 8, 9, 10, 11) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(6, 7, 8, 9, 10, 11); alias=default
+2025-06-30 12:22:38,390 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'core'; args=('core',); alias=default
+2025-06-30 12:22:38,392 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'authtoken'; args=('authtoken',); alias=default
+2025-06-30 12:22:38,393 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'authtoken' AND "django_content_type"."model" IN ('tokenproxy', 'token')); args=('authtoken', 'tokenproxy', 'token'); alias=default
+2025-06-30 12:22:38,394 - DEBUG - (0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (12, 13) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(12, 13); alias=default
+2025-06-30 12:22:38,395 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'authtoken'; args=('authtoken',); alias=default
+2025-06-30 12:22:38,397 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sites'; args=('sites',); alias=default
+2025-06-30 12:22:38,398 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'sites' AND "django_content_type"."model" IN ('site')); args=('sites', 'site'); alias=default
+2025-06-30 12:22:38,400 - DEBUG - (0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (14) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(14,); alias=default
+2025-06-30 12:22:38,401 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'sites'; args=('sites',); alias=default
+2025-06-30 12:22:38,405 - DEBUG - (0.003) SELECT 1 AS "a" FROM "django_site" LIMIT 1; args=(1,); alias=default
+2025-06-30 12:22:38,406 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'allauth'; args=('allauth',); alias=default
+2025-06-30 12:22:38,408 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'allauth'; args=('allauth',); alias=default
+2025-06-30 12:22:38,409 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'account'; args=('account',); alias=default
+2025-06-30 12:22:38,410 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'account' AND "django_content_type"."model" IN ('emailaddress', 'emailconfirmation')); args=('account', 'emailaddress', 'emailconfirmation'); alias=default
+2025-06-30 12:22:38,412 - DEBUG - (0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (16, 15) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(16, 15); alias=default
+2025-06-30 12:22:38,413 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'account'; args=('account',); alias=default
+2025-06-30 12:22:38,414 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'socialaccount'; args=('socialaccount',); alias=default
+2025-06-30 12:22:38,415 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE ("django_content_type"."app_label" = 'socialaccount' AND "django_content_type"."model" IN ('socialapp', 'socialtoken', 'socialaccount')); args=('socialaccount', 'socialapp', 'socialtoken', 'socialaccount'); alias=default
+2025-06-30 12:22:38,417 - DEBUG - (0.000) SELECT "auth_permission"."content_type_id", "auth_permission"."codename" FROM "auth_permission" INNER JOIN "django_content_type" ON ("auth_permission"."content_type_id" = "django_content_type"."id") WHERE "auth_permission"."content_type_id" IN (17, 18, 19) ORDER BY "django_content_type"."app_label" ASC, "django_content_type"."model" ASC, "auth_permission"."codename" ASC; args=(17, 18, 19); alias=default
+2025-06-30 12:22:38,418 - DEBUG - (0.000) SELECT "django_content_type"."id", "django_content_type"."app_label", "django_content_type"."model" FROM "django_content_type" WHERE "django_content_type"."app_label" = 'socialaccount'; args=('socialaccount',); alias=default
+2025-06-30 22:19:27,557 - INFO - Connected to MQTT broker
+2025-06-30 22:19:27,559 - INFO - Subscribed to home/tankRoom/tankLevel
+2025-06-30 22:19:27,559 - INFO - Subscribed to home/tankRoom/mainFlowrate
+2025-06-30 22:19:27,559 - INFO - Subscribed to home/tankRoom/secondFlowrate
+2025-06-30 22:19:27,560 - INFO - Subscribed to home/waterConsumption/+
+2025-06-30 22:19:27,560 - INFO - Subscribed to home/leakageRoom/firstPIRSensor
+2025-06-30 22:19:27,560 - INFO - Subscribed to home/leakageRoom/secondPIRSensor
+2025-06-30 22:19:27,561 - INFO - Subscribed to home/leakageRoom/leakAlarm
+2025-06-30 22:19:27,561 - INFO - Subscribed to home/waterConsumption/alert/+
+2025-06-30 22:19:27,819 - DEBUG - (0.015) 
+            SELECT
+                c.relname,
+                CASE
+                    WHEN c.relispartition THEN 'p'
+                    WHEN c.relkind IN ('m', 'v') THEN 'v'
+                    ELSE 't'
+                END,
+                obj_description(c.oid, 'pg_class')
+            FROM pg_catalog.pg_class c
+            LEFT JOIN pg_catalog.pg_namespace n ON n.oid = c.relnamespace
+            WHERE c.relkind IN ('f', 'm', 'p', 'r', 'v')
+                AND n.nspname NOT IN ('pg_catalog', 'pg_toast')
+                AND pg_catalog.pg_table_is_visible(c.oid)
+        ; args=None; alias=default
+2025-06-30 22:19:27,826 - DEBUG - (0.002) SELECT "django_migrations"."id", "django_migrations"."app", "django_migrations"."name", "django_migrations"."applied" FROM "django_migrations"; args=(); alias=default
+2025-06-30 22:19:45,395 - DEBUG - (0.002) SELECT "core_customuser"."id", "core_customuser"."password", "core_customuser"."last_login", "core_customuser"."is_superuser", "core_customuser"."username", "core_customuser"."first_name", "core_customuser"."last_name", "core_customuser"."email", "core_customuser"."is_staff", "core_customuser"."is_active", "core_customuser"."date_joined", "core_customuser"."role", "core_customuser"."full_name", "core_customuser"."home_address", "core_customuser"."phone_number", "core_customuser"."created_at" FROM "core_customuser" WHERE "core_customuser"."username" = 'azzam2' LIMIT 21; args=('azzam2',); alias=default
+2025-06-30 22:20:05,220 - DEBUG - (0.015) INSERT INTO "core_customuser" ("password", "last_login", "is_superuser", "username", "first_name", "last_name", "email", "is_staff", "is_active", "date_joined", "role", "full_name", "home_address", "phone_number", "created_at") VALUES ('pbkdf2_sha256$870000$COPzkKcKZdAQj5LkIqmdPs$KlqJ2oax71w3HhbeZkGXlCi0OzOI9iSA1jVIR+FgZqg=', NULL, true, 'azzam2', '', '', 'azzam2@gmail.com', true, true, '2025-06-30T22:20:05.019913+00:00'::timestamptz, 'homeowner', '', NULL, NULL, '2025-06-30T22:20:05.205536+00:00'::timestamptz) RETURNING "core_customuser"."id"; args=('pbkdf2_sha256$870000$COPzkKcKZdAQj5LkIqmdPs$KlqJ2oax71w3HhbeZkGXlCi0OzOI9iSA1jVIR+FgZqg=', None, True, 'azzam2', '', '', 'azzam2@gmail.com', True, True, datetime.datetime(2025, 6, 30, 22, 20, 5, 19913, tzinfo=datetime.timezone.utc), 'homeowner', '', None, None, datetime.datetime(2025, 6, 30, 22, 20, 5, 205536, tzinfo=datetime.timezone.utc)); alias=default

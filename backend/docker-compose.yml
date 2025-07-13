@@ -1,0 +1,54 @@
+services:
+  django:
+    build: .
+    container_name: django
+    volumes:
+      - .:/app
+      - ./logs:/app/logs
+      - ./staticfiles:/app/staticfiles
+    ports:
+      - "8000:8000"
+    environment:
+      - DATABASE_URL=postgres://postgres:postgres@db:5432/water_db
+      - MQTT_BROKER=mqtt
+      - REDIS_URL=redis://redis:6379/0
+    depends_on:
+      - db
+      - mqtt
+      - redis
+    networks:
+      - water_network
+  db:
+    image: postgres:16
+    container_name: postgres
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=water_db
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+    networks:
+      - water_network
+  mqtt:
+    image: eclipse-mosquitto:2.0
+    container_name: mosquitto
+    ports:
+      - "1883:1883"
+    volumes:
+      - ./mosquitto.conf:/mosquitto/config/mosquitto.conf
+    networks:
+      - water_network
+  redis:
+    image: redis:7
+    container_name: redis
+    ports:
+      - "6379:6379"
+    networks:
+      - water_network
+volumes:
+  pgdata:
+networks:
+  water_network:
+    driver: bridge
